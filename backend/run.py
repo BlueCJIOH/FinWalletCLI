@@ -1,4 +1,4 @@
-from backend.main import menu
+from main import menu
 
 if __name__ == "__main__":
     menu.start()
